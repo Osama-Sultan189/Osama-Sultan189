@@ -113,14 +113,6 @@
 
 <div align="center">
 
-[![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Osama-Sultan189&bg_color=0c1117&color=ffffff&line=0D57FF&point=0D57FF&area=true&hide_border=true)](https://github.com/Osama-Sultan189)
-
-</div>
-
----
-
-<div align="center">
-
 #### 🤝 Currently Open to
 
 **💼 Freelance Projects &nbsp;|&nbsp; 🤖 AI/Backend Consulting &nbsp;|&nbsp; 🌐 Interesting Collaborations**
