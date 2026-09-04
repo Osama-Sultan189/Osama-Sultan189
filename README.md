@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D57FF,100:0D57FF&text=Osama%20Sultan&textBg=false&fontColor=FFFFFF&fontSize=64&animation=fadeIn&desc=Software%20%26%20AI%20Engineer%20%7C%20Python%2C%20Django%2C%20FastAPI%20%7C%20Agentic%20AI%20%26%20RAG%20Systems&descAlignY=52&fontAlignY=31&section=header&descSize=18" />
+<img width="100%" src="header.png" alt="Osama Sultan — Software & AI Engineer | Python, Django, FastAPI | Agentic AI & RAG Systems" />
 
 </div>
 
